@@ -35,7 +35,7 @@ def get_filters():
     while True:
         city = input('\nWhich city would you like to see the statistics for?\n Please enter Chicago, New York City, or Washington\n').lower()
         if city not in cities:
-            print('\Invalid entry. Please enter Chicago, New York City, or Washington\n')
+            print('\Your vity isn\'t in this list. Please enter Chicago, New York City, or Washington\n')
             continue
         else:
             break

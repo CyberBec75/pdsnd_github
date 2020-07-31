@@ -1,3 +1,5 @@
+""" Created by Rebecca Roberts for Udacity Programming for Data Science Nanadegree"""
+
 import time
 import pandas as pd
 import numpy as np

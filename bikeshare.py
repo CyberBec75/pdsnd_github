@@ -1,6 +1,9 @@
 """ Created by Rebecca Roberts for Udacity Programming for Data Science Nanadegree"""
 """ Date 31st July 2020"""
 
+""" A program to generate statistics on bike sharing data for three US ciies"""
+
+
 import time
 import pandas as pd
 import numpy as np
